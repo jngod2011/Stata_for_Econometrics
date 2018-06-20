@@ -34,6 +34,12 @@ summarize $x1list, detail
 * Plotting the data
 graph twoway (scatter $ylist $x1list)
 
+/* Simple Regression 
+reg variable1 lvariable2 variable3 variable4 */
+
+/* Covariance matrix of coefficients of regress model
+estat vce */
+
 * Simple Regression (Creating ANOVA Table)
 reg $ylist $x1list
 
