@@ -1,6 +1,6 @@
 # Stata_for_Econometrics
 
-## Using Stata for econometric analysis.
+### Using Stata for econometric analysis.
 
 
 - Introducing Stata
@@ -18,3 +18,4 @@
 - Vector Error Correction and Vector Autoregressive Models
 - Panel Data Models 
 - Qualitative and Limited Dependent Variable Models
+- Extra Topics
