@@ -52,9 +52,9 @@ summarize $ylist yp
 graph twoway (scatter $ylist $x1list)(scatter yp $x1list)
 
 * Regression Residuals 
-predict rep, resid
-summarize rep
-graph twoway (scatter rep $x1list)
+predict e1hat, resid
+summarize e1hat
+graph twoway (scatter e1hat $x1list)
 
 * Hypothesis testing 
 test $x1list
@@ -72,8 +72,8 @@ predict re1p, xb
 summarize $ylist yhat
 
 * Regression residuals
-predict re1p, resid
-summarize re1p
+predict ehat, resid
+summarize ehat
 
 * Hypothesis testing 
 test $xlist
