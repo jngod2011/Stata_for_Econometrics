@@ -19,3 +19,6 @@
 - Panel Data Models 
 - Qualitative and Limited Dependent Variable Models
 - Extra Topics
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
