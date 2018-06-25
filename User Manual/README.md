@@ -1,5 +1,13 @@
 # Stata
-Stata is the solution for your data science needs 
+Stata is the solution for your data science needs.
+
+- Stata_processing
+- Stata_visualization1
+- Stata_visualization2
+- Stata_transformation
+- Stata_programming
+- Stata_Analysis
+
 
 ## Statistical Features
 - Multilevel models,
