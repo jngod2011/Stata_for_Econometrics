@@ -1,4 +1,5 @@
 * Introducing Stata 
+* David Li
 
 * Creating a log file to store output 
 log using stata_output.txt, text replace
